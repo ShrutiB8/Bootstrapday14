@@ -1,0 +1,26 @@
+.main1{
+    background-color: goldenrod;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: rgb(196, 189, 189); 
+}
+.fa{
+    color: rgb(100, 72, 253);
+}
+.title{
+    margin: 20px 0px;
+}
+a{
+    border-bottom: 2px solid rgb(71, 71, 226);
+}
+.box-part{
+    background-color: whitesmoke;
+    padding: 40px 10px;
+    margin: 30px 0px;
+}
+.box{
+    padding: 60px 0px;
+}
